@@ -1,8 +1,6 @@
+![Culture Picture](https://github.com/Lokesh926/LokeshKaturi/assets/43766565/cf823cb3-b650-4238-b25f-216feae5c6ea)
 # **Lokesh Katuri**
 *Data Scientist & Machine Learning Enthusiast*
-
-![Culture Picture](https://github.com/Lokesh926/LokeshKaturi/assets/43766565/cf823cb3-b650-4238-b25f-216feae5c6ea)
-
 
 
 ---
