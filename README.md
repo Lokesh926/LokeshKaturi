@@ -1,8 +1,8 @@
 # Lokesh Katuri
-*Address: Baltimore, MD |*
-*Phone: +1 667-379-3711 |*
-*Email: lokesh.katuri26@gmail.com |*
-*LinkedIn: https://www.linkedin.com/in/lokesh-katuri-2696l/*
+*Baltimore, MD |*
+*+1 667-379-3711 |*
+*lokesh.katuri26@gmail.com |*
+*https://www.linkedin.com/in/lokesh-katuri-2696l/*
 
 ## Summary
 Experienced professional with a strong background in [Your Field/Industry]. Proven track record of [mention key achievements or skills]. Seeking opportunities to [your career goal or objective].
