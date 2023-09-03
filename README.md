@@ -86,8 +86,8 @@
 
 ## **Skills**
 - **Programming Languages:** C, C++, Python (Advanced), Java (Intermediate), SQL (Advanced), Bash, HTML, CSS, JavaScript (Intermediate), Golang (Beginner)
-- **Machine Learning Libraries:** scikit-learn, TensorFlow, Keras, PyTorch, SparkML
-- **Web Development Frameworks:** React, Vue.js, D3.js, Flask, Streamlet, Django
+- **Machine Learning Libraries:** sci-kit-learn, TensorFlow, Keras, PyTorch, SparkML
+- **Web Development Frameworks:** React, Vue.js, D3.js, Flask, Streamlit, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB, Cassandra, SQLite, Oracle Database, Microsoft SQL Server
 - **Tools:** Jira, Tableau, Power BI, Jenkins, Git, Terraform, Docker, Kubernetes, Grafana, Prometheus, Spark, Hive, Hadoop, Kafka
 - **Cloud Platforms:** AWS, Google Cloud Platform
