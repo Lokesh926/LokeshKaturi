@@ -10,7 +10,6 @@
 📧 Lokesh.katuri26@gmail.com
 🌐 <a href="https://www.linkedin.com/in/lokesh-katuri-2696l/" target="_blank">
   <img src="https://github.com/yourusername/yourrepositoryname/blob/main/images/linkedin-icon.svg" alt="LinkedIn Icon" width="30">
-</a>[LinkedIn](https://www.linkedin.com/in/lokesh-katuri-2696l/)
 🚀 [GitHub](https://github.com/LokKaturi)
 
 ---
