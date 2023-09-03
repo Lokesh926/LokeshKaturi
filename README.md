@@ -5,7 +5,7 @@
 *https://www.linkedin.com/in/lokesh-katuri-2696l/*
 
 ## Summary
-Experienced professional with a strong background in [Your Field/Industry]. Proven track record of [mention key achievements or skills]. Seeking opportunities to [your career goal or objective].
+Lokesh Katuri is a highly skilled Data Scientist with a Master's in Data Science and strong technical expertise. His track record includes impactful analyses, cross-functional leadership, and a versatile skill set, making him a valuable asset for data-centric roles.
 
 ## Education
 ### [University Name]
