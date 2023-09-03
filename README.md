@@ -1,6 +1,6 @@
-# Your Name
+# Lokesh Katuri
 *Address: Baltimore, MD*
-*Phone: +1 667-379-3711 *
+*Phone: +1 667-379-3711*
 *Email: lokesh.katuri26@gmail.com*
 *LinkedIn: https://www.linkedin.com/in/lokesh-katuri-2696l/*
 
